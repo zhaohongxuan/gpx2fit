@@ -1,0 +1,4 @@
+gpxcsv==0.2.15
+gpxpy==1.4.2
+pandas==2.0.3
+fit-tool==0.9.13
